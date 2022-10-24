@@ -1,0 +1,14 @@
+/* td{
+    text-align:center;
+} */
+
+table{
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#heading{
+    text-align:center;
+    font-size: 3em;
+}
